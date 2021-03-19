@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Huni first post"
 date: 2021-03-12 15:55:00 +0900
 ---
